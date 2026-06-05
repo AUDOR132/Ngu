@@ -1,0 +1,6 @@
+{
+  "name": "ae Label Exhibit",
+  "description": "Interactive 3D WebGL balloon popping art platform featuring immersive artist portfolios and label manifest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
